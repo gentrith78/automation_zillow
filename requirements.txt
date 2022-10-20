@@ -1,2 +1,3 @@
 playwright==1.23
+BeautifulSoup 4
 
